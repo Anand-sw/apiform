@@ -1,0 +1,95 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "username": "test",
+      "phone": "9988556677",
+      "email": "test@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": 2,
+      "username": "test1",
+      "phone": "9988556677",
+      "email": "test01@gmail.com",
+      "password": "12345"
+    },
+    {
+      "username": "anand1",
+      "phone": "12345677",
+      "email": "shivaanand104@gmail.com",
+      "id": 3
+    },
+    {
+      "username": "test",
+      "password": "12345",
+      "id": 4
+    },
+    {
+      "username": "test",
+      "password": "12345",
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "username": "test",
+      "password": "12345",
+      "id": 8
+    },
+    {
+      "username": "test",
+      "password": "12345",
+      "id": 9
+    },
+    {
+      "username": "test",
+      "password": "12345",
+      "id": 10
+    },
+    {
+      "username": "test",
+      "password": "12345",
+      "id": 11
+    },
+    {
+      "username": "test",
+      "password": "12345",
+      "id": 12
+    },
+    {
+      "username": "test",
+      "password": "12345",
+      "id": 13
+    },
+    {
+      "username": "test",
+      "password": "12345",
+      "id": 14
+    },
+    {
+      "username": null,
+      "phone": null,
+      "email": null,
+      "password": null,
+      "id": 15
+    },
+    {
+      "username": null,
+      "phone": null,
+      "email": null,
+      "password": null,
+      "id": 16
+    },
+    {
+      "id": 17
+    },
+    {
+      "id": 18
+    }
+  ]
+}
